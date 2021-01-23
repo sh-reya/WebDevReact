@@ -1,0 +1,13 @@
+### Uses of package.json file:
+
+1. Serves as a documentation for what package our project depends upon.
+
+2. Allows us to specify the version of package that our project uses using "semantics versioning tool"
+
+3. Makes sharing easier.
+
+
+### How to initialize package.json file
+
+For initializing this file for the project, we need to type "npm init" at the prompt in the project directory.
+
